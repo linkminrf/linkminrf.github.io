@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F17%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post$ hexo new &quot;My New Post&quot; More info: Writing social: GitHub: https://github.com/username 知乎: https://www.zhihu.com/people/feng-di-54-18/activities social_icons: enable: true icons_only: false transition: false Icon Mappings.KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome GitHub: github 知乎: heart-o]]></content>
+      <categories>
+        <category>category1</category>
+        <category>category2</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+</search>

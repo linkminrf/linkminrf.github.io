@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>妃儿</title>
+  
+  <subtitle>生活点滴</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://linkmin.com/"/>
+  <updated>2018-11-17T15:00:09.245Z</updated>
+  <id>http://linkmin.com/</id>
+  
+  <author>
+    <name>fei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://linkmin.com/2018/11/17/hello-world/"/>
+    <id>http://linkmin.com/2018/11/17/hello-world/</id>
+    <published>2018-11-17T07:00:02.234Z</published>
+    <updated>2018-11-17T15:00:09.245Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><p>social:<br>  GitHub: <a href="https://github.com/username" target="_blank" rel="noopener">https://github.com/username</a><br>  知乎: <a href="https://www.zhihu.com/people/feng-di-54-18/activities" target="_blank" rel="noopener">https://www.zhihu.com/people/feng-di-54-18/activities</a></p><p>social_icons:<br>  enable: true<br>  icons_only: false<br>  transition: false</p><h1 id="Icon-Mappings"><a href="#Icon-Mappings" class="headerlink" title="Icon Mappings."></a>Icon Mappings.</h1><h1 id="KeyMapsToSocialItemKey-NameOfTheIconFromFontAwesome"><a href="#KeyMapsToSocialItemKey-NameOfTheIconFromFontAwesome" class="headerlink" title="KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome"></a>KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome</h1><p>  GitHub: github<br>  知乎: heart-o  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="category1" scheme="http://linkmin.com/categories/category1/"/>
+    
+      <category term="category2" scheme="http://linkmin.com/categories/category1/category2/"/>
+    
+    
+      <category term="tag1" scheme="http://linkmin.com/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://linkmin.com/tags/tag2/"/>
+    
+  </entry>
+  
+</feed>
